@@ -1,5 +1,2 @@
 # capstone_movielens project files
-
-R script file
-R Markdown file
-Report pdf file
+Attached in this workspace the CORRECT versions of the R-script, R-Markdown, and Report pdf files
